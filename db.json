@@ -1,0 +1,164 @@
+{
+  "purchases": [
+    [
+      {
+        "title": "Hare Intro",
+        "sub_title": "5 plays",
+        "price": 0.99,
+        "plays_count": 10,
+        "show_badge": true
+      },
+      {
+        "title": "Tortoise Intro",
+        "sub_title": "25 plays",
+        "price": 4.99,
+        "plays_count": 50,
+        "show_badge": true
+      },
+      {
+        "title": "Tortoise Intro",
+        "sub_title": "50 plays",
+        "price": 9.99,
+        "plays_count": 100,
+        "show_badge": true
+      },
+      {
+        "title": "Tortoise Expert",
+        "sub_title": "125 plays",
+        "price": 19.99,
+        "plays_count": 250,
+        "show_badge": true
+      },
+      {
+        "title": "The Fox",
+        "sub_title": null,
+        "price": 19.99,
+        "plays_count": 700,
+        "show_badge": false
+      }
+    ]
+  ],
+  "leaderboard": [
+    {
+      "id": "aa2842f3-ec97-4d4c-a286-aea3d1925b50",
+      "user_image_url": "https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg",
+      "first_name": "Bill",
+      "last_name": "Gates",
+      "score": 1163.7
+    },
+    {
+      "id": "bb2842f3-ec97-3d4c-a286-aea3d1925b59",
+      "user_image_url": null,
+      "first_name": "Lena",
+      "last_name": "Brown",
+      "score": 163.4
+    },
+    {
+      "id": "gf2842d3-ec97-3d4c-a286-aea3d1925b59",
+      "user_image_url": null,
+      "first_name": "Bruce",
+      "last_name": "Wayne",
+      "score": 1104.9
+    },
+    {
+      "id": "gf2842d3-ee97-3d4c-a586-aea3d1925b59",
+      "user_image_url": null,
+      "first_name": "Peter",
+      "last_name": "Parker",
+      "score": 2004.9
+    },
+    {
+      "id": "gf2842d3-ee97-3d4c-a586-aea3d1925b59",
+      "user_image_url": null,
+      "first_name": "Sara",
+      "last_name": "Parker",
+      "score": 209.1
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question_id": "8434e6c8-ff89-49db-9c8b-30eea2a1388aa",
+        "question_text": "Which video game was the best selling of 2019?",
+        "question_seconds": 20,
+        "question_image_url": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+        "answers": [
+          {
+            "answer_text": "Madden NFL 2020",
+            "answer_id": "81275e3f-b8f7-416d-afa7-922f267935fb",
+            "correct_answer": true
+          },
+          {
+            "answer_text": "Mortal Combat 3",
+            "answer_id": "340b3bcd6-80f7-47f4-98a4-5e35e3920f7c",
+            "correct_answer": false
+          },
+          {
+            "answer_text": "Call of Duty: Modern Warfare 2019",
+            "answer_id": "c548aa33-5531-4289-a0ce-863d96673a10",
+            "correct_answer": false
+          },
+          {
+            "answer_text": "Kingdom Hearts III",
+            "answer_id": "81051587-60d5-422f-b941-1eedc5f8d80c",
+            "correct_answer": false
+          }
+        ]
+      },
+      {
+        "question_id": "8434e6c8-ffaa-49db-9c8b-302a2a1388aa",
+        "question_text": "In which country was Hawaiian Pizza invented?",
+        "question_seconds": 20,
+        "answers": [
+          {
+            "answer_text": "United States",
+            "answer_id": "81275e3f-b8f7-cc16d-afa7-922f267935fb",
+            "correct_answer": false
+          },
+          {
+            "answer_text": "Canada",
+            "answer_id": "340b3bcd6-80f7-47f4cc8a4-5e35e3920f7c",
+            "correct_answer": true
+          },
+          {
+            "answer_text": "Mexico",
+            "answer_id": "c548aa33-5531-4289-acce-863d96673a10",
+            "correct_answer": false
+          },
+          {
+            "answer_text": "Italy",
+            "answer_id": "81051587-60d5-422f-b941-1ccdc5f8d80c",
+            "correct_answer": false
+          }
+        ]
+      },
+      {
+        "question_id": "8434e6c8-ff89-49db-9c8b-5422a2a1388aa",
+        "question_text": "What is the most spoken language in the world?",
+        "question_seconds": 15,
+        "answers": [
+          {
+            "answer_text": "English",
+            "answer_id": "81275e3f-b8f1-416d-afa7-922f267935fb",
+            "correct_answer": true
+          },
+          {
+            "answer_text": "Armenian",
+            "answer_id": "340b3bcd6-80f7-47f4-98a4-5e45e3920f7c",
+            "correct_answer": false
+          },
+          {
+            "answer_text": "Espanol",
+            "answer_id": "c548ba33-5531-4289-a0ce-863d96673a10",
+            "correct_answer": false
+          },
+          {
+            "answer_text": "Russian",
+            "answer_id": "81051587-30d5-422f-b941-1eedc5f8d80c",
+            "correct_answer": false
+          }
+        ]
+      }
+    ]
+  }
+}
